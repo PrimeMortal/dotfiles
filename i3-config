@@ -160,6 +160,3 @@ new_window none
 
 # Hide vertical edge borders
 hide_edge_borders vertical
-
-# load Xresources
-[[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
