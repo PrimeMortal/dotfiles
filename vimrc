@@ -8,6 +8,9 @@ set nu
 set tabstop=4
 set shiftwidth=4
 
+" expand TABs to spaces
+set expandtab
+
 " disable search pattern highlighting
 set nohlsearch
 
