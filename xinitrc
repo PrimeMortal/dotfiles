@@ -1,3 +1,4 @@
 [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
-exec i3 conky
+(sleep 10; conky -q) &
+exec i3
 
