@@ -160,3 +160,6 @@ new_window none
 
 # Hide vertical edge borders
 hide_edge_borders vertical
+
+# change font
+font xft:Monospace 10
